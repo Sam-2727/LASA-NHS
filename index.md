@@ -1,13 +1,10 @@
 ---
 layout: page
-title: "LASA Student Council"
+title: "LASA NHS"
 image: /images/background1.jpg
 
 ---
 
-# Purpose
+National Honor Society is a nationwide service organization, with school specific chapters in many high schools. Sophomores and Juniors are inducted into National Honor Society at the end of each year if they meet certain academic and extracurricular requirements.
 
-Student Council is LASA’s student government organization, made up of four elected officers from each class. Officers serve as the community and social chairs of the school – acting as class organizers, student advocates, morale officers, and major project planners among many other duties and responsibilities.
-
-# Organization of Website
-Updates about current student council activities will be posted in the "announcement" sections. You can find all announcements made to classes in the "Remind Feeds" section. This section will be more holistic, while the "announcements" section will be more organized, and sometimes more thorough on important events.
+NHS officers run LASA's national honor society, ensuring that all members meet the service requirements, organizing sponsored volunteering hours, maintaining an informative website for LASA NHS, and inducting new members into NHS.
