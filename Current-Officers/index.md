@@ -26,6 +26,7 @@ NHS officers run LASA’s national honor society, ensuring that all members meet
 ## Shruthi Aravindan
 - bio
 - picture
+
 ## Mia Ternus
 - bio
 - picture
@@ -34,6 +35,7 @@ NHS officers run LASA’s national honor society, ensuring that all members meet
 ## Pearl Morosky
 - bio
 - picture
+
 ## Morgan Strong
 - bio
 - picture

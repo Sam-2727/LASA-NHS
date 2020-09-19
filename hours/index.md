@@ -1,5 +1,6 @@
 ---
 title: Logging Hours
+image: "images/background4.jpg"
 ---
 
 NHS members are required to receive XYZ hours per semester, of which at least XYZ must be sponsored hours.
