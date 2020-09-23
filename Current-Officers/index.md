@@ -45,6 +45,10 @@ Hi, I'm Mia and I'm a senior at LASA. You may recognize me through orchestra, cr
 
 # Junior Liaison Board Leaders
 ## Pearl Morosky
+<figure style="width: 350px" class="align-center">
+  <img src="{{ '/images/Pearl.jpg' | absolute_url }}" alt="">
+</figure>
+Hi, my name is Pearl Morosky and I'm a rising senior at LASA. I was a member of JLB last year and am so excited for the opportunity to help lead it! My favorite place to volunteer is at the Micah 6 Food Pantry near UT. Besides NHS, I'm an intern with the City's Urban Forestry Department, President of LASA Chinese Club and LASA Youth and Government, and a captain of LASA Lacrosse. In my spare time, I love to jog, hike, and do hot yoga!
 
 ## Morgan Strong
 <figure style="width: 350px" class="align-center">
