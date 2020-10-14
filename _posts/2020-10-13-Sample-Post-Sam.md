@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Sam's sample post
-image: /images/background4.jpg
+image: /images/background3.jpg
 ---
 
-# Test post!
+This is another post
