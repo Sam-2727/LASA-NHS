@@ -1,3 +1,4 @@
+---
 layout: page
 title: Peyton's sample post
 image: /images/background3.jpg
