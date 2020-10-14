@@ -2,6 +2,8 @@
 layout: page
 title: Sam's sample post
 image: /images/background3.jpg
+redirect_from:
+  - /sam
 ---
 # Text 1
 ## Text 2
