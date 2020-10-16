@@ -1,6 +1,7 @@
-<!DOCTYPE html>
-<html>
-<head>
+---
+layout: page
+title:
+---
 <style>
 #Iframe-Liason-Sheet {
  max-width: screen.width*0.7;
@@ -36,7 +37,6 @@
  margin-right: auto !important;
 }
 </style>
-<body>
 <div id="Iframe-Liason-Sheet" class="iframe-border center-block-horiz">
  <div class="responsive-wrapper responsive-wrapper-wxh-550x2000">
    <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRKX8StL2UE5yQzp6v_b522RT5-HJXPduVFUMfTLuXXh9Q0M5qAi2WS4gFpUZtUKGyqioiQGqDSV-Rj/pubhtml">
@@ -44,5 +44,3 @@
    </iframe>
  </div>
 </div>
-</body>
-</html>
