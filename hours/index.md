@@ -11,7 +11,7 @@ NHS recommends that, in order to keep track of the amount of hours you have, you
 
 There is a "three strike" system for service hours. If a member fails to meet service requirements for a semester, they will receive one strike. Strikes can also be received for failing to attend an NHS meeting without proper notification. Upon receiving three strikes, your membership in NHS will be reviewed.
 
-**If your club wants to have NHS send out a sponsored volunteering opportunity**, please fill out [this form](/
+**If your club wants to have your volunteering opportunities count as sponsored hours,** please fill out [this form](/
 event_request
 ).
 
