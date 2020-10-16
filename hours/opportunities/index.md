@@ -3,4 +3,44 @@ layout: page
 title: "Sponsored Hours Opportunities"
 image: /images/background4.jpg
 ---
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRKX8StL2UE5yQzp6v_b522RT5-HJXPduVFUMfTLuXXh9Q0M5qAi2WS4gFpUZtUKGyqioiQGqDSV-Rj/pubhtml?widget=true&amp;headers=false"></iframe>
+<!-- This is copied from https://forum.squarespace.com/topic/64949-i-cant-get-my-google-sheet-to-be-responsive-what-am-i-doing-wrong/-->
+#Iframe-Liason-Sheet {
+ max-width: 550px;
+ max-height: 2000px;
+ overflow: hidden;
+}
+/* inner wrapper: make responsive */
+.responsive-wrapper {
+ position: relative;
+ height: 0;  /* gets height from padding-bottom setting */
+ -webkit-overflow-scrolling: touch;
+ overflow: auto;
+}
+.responsive-wrapper iframe {
+ position: absolute;
+ top: 0;
+ left: 0;
+ width: 100%;
+ height: 100%;
+ margin: 0;
+ padding: 0;
+ border: none;
+}
+/* padding-bottom = h/w as a % */
+.responsive-wrapper-wxh-550x2000 {
+ padding-bottom: 363.6364%;
+}
+.iframe-border {
+ border: 1px solid #000;
+}
+.center-block-horiz {
+ margin-left: auto !important;
+ margin-right: auto !important;
+}
+<div id="Iframe-Liason-Sheet" class="iframe-border center-block-horiz">
+ <div class="responsive-wrapper responsive-wrapper-wxh-550x2000">
+   <iframe src="<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRKX8StL2UE5yQzp6v_b522RT5-HJXPduVFUMfTLuXXh9Q0M5qAi2WS4gFpUZtUKGyqioiQGqDSV-Rj/pubhtml?widget=true&amp;headers=false"> 
+     <p style="font-size: 110%;"><em><strong>ERROR: </strong>An iframe should be displayed here but your browser version does not support iframes.</em> Please update your browser to its most recent version and try again.</p>
+   </iframe>
+ </div>
+</div>
