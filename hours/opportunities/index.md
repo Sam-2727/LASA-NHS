@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "[Volunteering Opportunities Available](https://docs.google.com/spreadsheets/d/1oyl8aXfzeu1z1m_Ivr7UeCJVQPvqAkXs4oFZmWwf3fk/edit?usp=sharing)"
+title: [Volunteering Opportunities Available](https://docs.google.com/spreadsheets/d/1oyl8aXfzeu1z1m_Ivr7UeCJVQPvqAkXs4oFZmWwf3fk/edit?usp=sharing)
 ---
 <style>
 #Iframe-Liason-Sheet {
@@ -27,7 +27,7 @@ title: "[Volunteering Opportunities Available](https://docs.google.com/spreadshe
 }
 /* padding-bottom = h/w as a % */
 .responsive-wrapper-wxh-550x2000 {
- padding-bottom: 40%;
+ padding-bottom: 60%;
 }
 .iframe-border {
  border: 1px solid #000;
