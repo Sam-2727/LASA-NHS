@@ -6,6 +6,7 @@ title: "Volunteering Opportunities Available"
 #Iframe-Liason-Sheet {
  max-width: screen.width;
  max-height: screen.height*0.4;
+ padding: 0;
 }
 /* inner wrapper: make responsive */
 .responsive-wrapper {
