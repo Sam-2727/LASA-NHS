@@ -27,7 +27,7 @@ title: "Volunteering Opportunities Available"
 }
 /* padding-bottom = h/w as a % */
 .responsive-wrapper-wxh-550x2000 {
- padding-bottom: 30%;
+ padding-bottom: 10%;
 }
 .iframe-border {
  border: 1px solid #000;
