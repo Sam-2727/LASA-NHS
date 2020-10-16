@@ -19,7 +19,7 @@ title: "Volunteering Opportunities Available"
  position: absolute;
  top: 0;
  left: 0;
- width: 100%;
+ width: 110%;
  height: 100%;
  margin: 0;
  padding: 0;
@@ -27,7 +27,7 @@ title: "Volunteering Opportunities Available"
 }
 /* padding-bottom = h/w as a % */
 .responsive-wrapper-wxh-550x2000 {
- padding-bottom: 10%;
+ padding-bottom: 100%;
 }
 .iframe-border {
  border: 1px solid #000;
