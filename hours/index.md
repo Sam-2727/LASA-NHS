@@ -7,7 +7,7 @@ NHS members are required to receive 15 hours per semester, of which at least 10 
 
 The due date for logging these hours is the beginning of the second semester. Please enter your hours in the below form. Only one event can be logged at a time. We recommend you log an event as soon as it occurs.
 
-Sponsored volunteering activites, once approved, are listed [here](/hours/opportunities).
+Sponsored volunteering activites, once approved, are listed **[here](/hours/opportunities)**.
 
 NHS recommends that, in order to keep track of the amount of hours you have, you make a copy of [this spreadsheet](https://docs.google.com/spreadsheets/d/1eaZgjdMwjMNDO_uYv0FlWRVh5j4s1i1KXdnX7E0yZ0g/edit?usp=sharing).
 
